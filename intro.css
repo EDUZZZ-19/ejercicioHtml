@@ -1,0 +1,11 @@
+html{background-color: rgba(110, 100, 86, 0.708);}
+.soyundiv{
+    background-color: antiquewhite;
+padding: 10px;
+border-radius: 10%;}
+
+div>div{ background-color: #17b2a3cd;}
+ 
+div>p{
+    text-align: center;
+}
